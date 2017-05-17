@@ -1,0 +1,5 @@
+[asmanager]
+server=<HOST>
+username=<USERNAME>
+secret=<SECRET>
+port=<PORT>

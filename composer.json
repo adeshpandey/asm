@@ -1,0 +1,17 @@
+{
+    "name": "adeshpandey/asm",
+    "description": "Asterisk manager to perform AMI commands from your php script.",
+    "type": "package",
+    "authors": [
+        {
+            "name": "adeshpandey",
+            "email": "adesh.pandey10@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
