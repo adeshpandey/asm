@@ -1,7 +1,6 @@
 {
     "name": "adeshpandey/asm",
     "description": "Asterisk manager to perform AMI commands from your php script.",
-    "type": "package",
     "license": "MIT",
     "authors": [
         {
